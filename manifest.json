@@ -1,12 +1,11 @@
 {
-  "short_name": "Packliste Jonathan",
+  "short_name": "Packliste Jona",
   "name": "Mein Packliste für Jonathan",
   "icons": [
     {
       "src": "icon.png",
       "type": "image/png",
-      "sizes": "192x192",
-"purpose": "any maskable"
+      "sizes": "192x192"
     }
   ],
   "start_url": "index.html",
